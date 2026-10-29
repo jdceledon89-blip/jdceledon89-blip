@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Jonathan 👋
 
-<!--
-**jdceledon89-blip/jdceledon89-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Google Data Analytics & Advanced Data Analytics
 
-Here are some ideas to get you started:
+📍 Iquique, Chile | 🌎 Open to 100% Remote Opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I'm a data analytics professional trained in Google Data Analytics and Google Advanced Data Analytics. I have previous professional experience in quality control, operational reporting, documentation and information management.
+
+I'm building my career in Data Analytics and Business Intelligence, applying analytical techniques to solve problems and support data-driven decisions.
+
+## 🛠️ Technical Skills
+
+- **Programming:** Python, SQL
+- **Data Analysis:** Pandas, exploratory data analysis (EDA), data cleaning and statistical analysis
+- **Visualization:** Tableau, Microsoft Excel, dashboards and reporting
+- **Business:** Quality control, operational data and reporting
+
+## 🎓 Certifications
+
+- Google Data Analytics Professional Certificate
+- Google Advanced Data Analytics Professional Certificate
+
+## 📊 Portfolio Projects
+
+Projects will be published here as they are completed and documented.
+
+## 🔗 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/jonathan-diac-c-b0a749381/)
+
+**Open to remote Data Analyst and Business Intelligence opportunities.**
